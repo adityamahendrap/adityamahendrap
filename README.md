@@ -1,3 +1,3 @@
 ```
-$ get good
+code for my freedom.
 ```
