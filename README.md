@@ -1,3 +1,3 @@
 ```
-code for my freedom.
+code for my freedom
 ```
